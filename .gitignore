@@ -10,6 +10,7 @@ __pycache__/
 # Логи
 log/
 *.log
+POST/
 
 # Временные файлы Excel и ОС
 ~$*.xlsx
